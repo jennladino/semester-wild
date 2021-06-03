@@ -14,19 +14,20 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Frank Church-River of No Return Wilderness protects 2.3 million acres of wilderness, and the Taylor Wilderness Research Station--affectionately known as the “Taylor Ranch”--is at its heart. 
+Since the inaugural semester in 2013, the Semester in the Wild Program has brought students into this wilderness to take courses on environmental history, wilderness management, stream ecology, wildlife biology, environmental writing, and outdoor leadership. 
+In addition to earning college credits, these lucky students learn about their place in the world and what makes us all "wild." 
+Several student tesimonials from the 2019 "Stargazer Tribe" are collected on this site. 
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+The wilderness is no ordinary classroom, with four walls, no windows, and a heavy textbook. 
+Students and teachers live and learn in close quarters, with students occupying a row of wall tents next to Big Creek and faculty housed in the nearby DeVlieg cabin (photo), built with the generous support of Janet DeVlieg Pope and the DeVlieg Foundation.
+Students and faculty spend evenings, weekends, mealtime, and free time, together. 
+Because of our close proximity, students learn at all times of the day. 
+Office hours can be on a sleeping bag, on a downed tree, or on a hike. 
+An important part of college is social, learning to live and work well with others while recognizing that we share this world with humans and nonhumans alike. 
+What better place to learn these lessons than in America's Wildest Classroom?
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 {% include cb/about_the_about.md %} 
-#Header One
 
-Ordered list:
-
-1. Testimonial videos
-2. Written testimonials
-3. Photos of this beautiful place
 
