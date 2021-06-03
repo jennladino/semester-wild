@@ -29,6 +29,8 @@ Office hours can be on a sleeping bag, on a downed tree, or on a hike.
 An important part of college is social, learning to live and work well with others while recognizing that we share this world with humans and nonhumans alike. 
 What better place to learn these lessons than in America's Wildest Classroom?
 
+![Uploading fall_snow.jpg…]()
+
 
 {% include cb/about_the_about.md %} 
 
