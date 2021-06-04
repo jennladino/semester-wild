@@ -21,15 +21,12 @@ Browse this site to read or view student testimonials from the 2019 "Stargazer T
 
 The wilderness is no ordinary classroom, with four walls, no windows, and a heavy textbook. 
 Students and teachers live and learn in close quarters, with students occupying a row of wall tents next to Big Creek and faculty housed in the nearby DeVlieg cabin, built with the generous support of Janet DeVlieg Pope and the DeVlieg Foundation.
-![devlieg](https://user-images.githubusercontent.com/84927544/120716831-676ab500-c47b-11eb-8f19-4282ad121f2d.jpg)
 
 Students and faculty spend evenings, weekends, mealtime, and free time, together. 
 Because of our close proximity, students learn at all times of the day. 
 Office hours can be on a sleeping bag, on a downed tree, or on a hike. 
 An important part of college is social, learning to live and work well with others while recognizing that we share this world with humans and nonhumans alike. 
 What better place to learn these lessons than in America's Wildest Classroom?
-
-![Uploading fall_snow.jpg…]()
 
 
 {% include cb/about_the_about.md %} 
