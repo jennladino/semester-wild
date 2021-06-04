@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="http://127.0.0.1:4000/item.html?id=sitw012" %}
+{% include feature/jumbotron.html objectid="sitw002" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
